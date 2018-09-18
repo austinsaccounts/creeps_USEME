@@ -19,4 +19,30 @@ You'll have three options for in-class on Thursday. One options is extending thi
 
 
 
-### Users
+### inspirations
+![alt text]("img/images-1.jpg"images10)
+
+
+###Branding
+ Darker pallettes , shadows, ominous foreboding feelings is conveyed
+ avoid sharp contrasts unless intentional
+
+ "spooky" fonts,
+
+ ((slow revealing transitions?))
+
+ hidden eastereggs  like moving shadows, blinking ravens
+
+### (ominous countdown clock)
+  on every Page
+
+### page future "reviews/update page , ideally with functionality
+
+###page landing/teaser
+
+### page developers team page and link to
+### //-developers blog// canvass/modal?
+### page game system reuiqrements, gameplay, images description
+
+ ///pallettes?
+fluff symbols
