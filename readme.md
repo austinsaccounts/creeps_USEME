@@ -24,6 +24,10 @@ game reviewers/guides need game play demos, art, system requirements, storyboard
 
 
 ### Photos of Paper Sketches
+![Sketch 1](https://github.com/amcgladd/creepy-forest/blob/master/img/sketch1.JPG)
+![Sketch 2](https://github.com/amcgladd/creepy-forest/blob/master/img/sketch2.JPG)
+![Sketch 3](https://github.com/amcgladd/creepy-forest/blob/master/img/sketch3.JPG)
+![Sketch 4](https://github.com/amcgladd/creepy-forest/blob/master/img/sketch4.JPG)
 
 
 ### Screenshots of Sketch Wireframes
