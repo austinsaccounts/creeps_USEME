@@ -20,7 +20,17 @@ You'll have three options for in-class on Thursday. One options is extending thi
 
 
 ### inspirations
-![alt text]("img/images-1.jpg"images10)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-1.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-2.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-3.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-4.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-5.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-6.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-7.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-8.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-9.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-10.JPG)
+![image ](https://github.com/amcgladd/creepy-forest/blob/master/img/images-11.JPG)
 
 
 ###Branding
