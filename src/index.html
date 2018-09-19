@@ -4,18 +4,21 @@
 </head>
 <body>
 
-  <img src="assets/images/stock-puppy-photo.jpeg" alt="such a pup!" width="100%">
+  <!-- <img src="assets/images/stock-puppy-photo.jpeg" alt="such a pup!" width="100%"> -->
   <div class="wrapper">
     <div class="main">
-
-      <div class="clock">
+      <div id=clock-holder>
+        <div class="clock">
+           <iframe src="http://free.timeanddate.com/countdown/i6f8bcww/n202/cf11/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cacf00/cpc000/pc000/tcfff/fn3/fs80/szw448/szh189/tatIt%20happens.../tacf00/tptTime%20since%20Event%20started%20in/tpc000/iso2018-11-11T00:00:00" allowTransparency="true" frameborder="0" width="352" height="40"></iframe>
+        </div>
       </div>
       <div class="background-holder">
-        <!-- <picture class="content image-container">
-          <source media="(max-width: 600px)" srcset="..src/assets/images/images-2.jpg">
-            <source media="(max-width: 950px)" srcset="..src/assets/images/desktop-bg.png">
-              <img class="image" src="..src/assets/images/desktop-bg.png" alt="a pretty sunset">
-            </picture> -->
+        <picture class="content image-container">
+          <source media="(max-width: 400px)" srcset="assets/images/mob-bg-large.png">
+            <source media="(max-width: 1024px)" srcset="assets/images/desktop-bg.png">
+              <div class="highlighter"> <img src="assets/images/highlight-circle.png" alt=""> </div>
+              <img class="image" src="assets/images/desktop-bg.png" alt="a pretty sunset" width="100%">
+            </picture>
           </div>
         </div>
 
